@@ -66,6 +66,8 @@ title: Back2Life – Delete account / מחיקת חשבון
 
 ---
 
+<a id="english"></a>
+
 # Delete account — Back2Life
 
 This page explains how to delete your account and all data of the **Back2Life** app (package
@@ -122,7 +124,7 @@ Questions: [back2lifesupport@gmail.com](mailto:back2lifesupport@gmail.com). We a
 you through the process, but we have no access to your Google account, your Drive or your data, so
 we cannot delete it for you.
 
-More information: [Privacy Policy](index.md).
+More information: [Privacy Policy](index.md#english).
 
 <p align="center">
   <img src="assets/Back2Life_ICON.png" alt="Back2Life icon" width="64">
