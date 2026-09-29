@@ -14,12 +14,13 @@ title: Back2Life – Delete account / מחיקת חשבון
 `com.back2life.app`&rlm;), שפותחה ומתוחזקת על ידי מפתחת פרטית: רנה דבש.
 
 &rlm;לאפליקציה אין שרת של המפתחת. הנתונים שלך נמצאים רק במכשיר שלך ובתיקייה בחשבון ה-Google Drive
-שלך, ולכן המחיקה מתבצעת על ידך ונכנסת לתוקף מיד (בטלפונים נוספים — כמתואר למטה).
+שלך, ולכן המחיקה מתבצעת על ידך ונכנסת לתוקף מיד.
 
 > &rlm;**סטטוס נכון ל-29.09.2026:** ההתחברות עם Google והשמירה ב-Google Drive עדיין אינן פעילות
 > בגרסה המופצת של האפליקציה. עד להפעלתן כל הנתונים נשמרים במכשיר בלבד, והסרת האפליקציה מוחקת אותם.
+> ההוראות שלהלן מתארות את ההתנהגות המתוכננת לאחר ההפעלה.
 
-## &rlm;אפשרות א׳: מחיקה מתוך האפליקציה
+## &rlm;אפשרות א׳: מחיקה מתוך האפליקציה (מומלץ)
 
 &rlm;_זמינה לאחר הפעלת רכיב Google (ראו הערת הסטטוס למעלה)._
 
@@ -27,32 +28,42 @@ title: Back2Life – Delete account / מחיקת חשבון
 2. &rlm;בחר/י **"מחיקת חשבון"**.
 3. &rlm;אשר/י את המחיקה פעמיים (אישור כפול).
 
-&rlm;הפעולה מוחקת את כל הנתונים המקומיים במכשיר ואת כל קובצי Back2Life ואת התיקייה
-"Back2Life – סנכרון נתונים" ב-Google Drive שלך. המחיקה סופית ואינה ניתנת לשחזור.
+&rlm;די לעשות זאת בטלפון **אחד**. התוצאה:
 
-&rlm;**כמה טלפונים:** מספיק לבצע את המחיקה בטלפון **אחד**. כל טלפון אחר שמחובר לאותו חשבון מוחק את
-הנתונים המקומיים שלו ומתנתק בפעם הבאה שהוא מתחבר לאינטרנט. טלפון שנשאר ללא חיבור שומר את הנתונים
-המקומיים שלו עד שיתחבר. בטלפון שלא יתחבר שוב לעולם יש לנקות את נתוני האפליקציה או להסיר אותה.
+- &rlm;כל קובצי הנתונים של Back2Life ב-Google Drive שלך נמחקים **לצמיתות**. הם **אינם** עוברים לאשפה של
+  Drive&rlm;, ולכן אין מה לרוקן אחר כך.
+- &rlm;התיקייה "Back2Life – סנכרון נתונים" והקובץ הקטן `account.json` נשארים. הקובץ מכיל רק מזהה
+  אקראי וחותמת זמן, ללא מידע אישי, והוא מאפשר לטלפונים האחרים שלך לדעת שהחשבון נמחק. אפשר למחוק
+  את התיקייה ידנית לאחר מכן.
+- &rlm;כל הנתונים המקומיים בטלפון הזה נמחקים, ואת/ה מנותק/ת מהחשבון.
+- &rlm;כל טלפון אחר שמחובר לאותו חשבון מוחק בעצמו את הנתונים המקומיים שלו ומתנתק בפעם הבאה שהוא
+  מתחבר לאינטרנט, במקום להעלות שוב את הנתונים שלו. טלפון שנשאר ללא חיבור שומר את הנתונים
+  המקומיים שלו עד שיתחבר.
+
+&rlm;בטלפון שלא יתחבר לאינטרנט לעולם יש עדיין לנקות את נתוני האפליקציה או להסיר אותה.
 
 ## &rlm;אפשרות ב׳: מחיקה בלי האפליקציה
 
-&rlm;למי שאינו יכול להשתמש באפליקציה. יש לבצע את השלבים לפי הסדר:
+&rlm;יש לבצע את השלבים **לפי הסדר**:
 
-1. &rlm;**בכל טלפון** שבו האפליקציה מותקנת: נקה/י את נתוני האפליקציה בהגדרות Android או הסר/י את
-   האפליקציה, כדי למחוק את הנתונים המקומיים.
-2. &rlm;**ב-Google Drive:** מחק/י את התיקייה **"Back2Life – סנכרון נתונים"**, ולאחר מכן מחק/י
-   אותה לצמיתות מהאשפה של Drive&rlm;.
-3. &rlm;**ביטול הגישה:** הסר/י את Back2Life מרשימת האפליקציות שיש להן גישה לחשבון, בעמוד
-   [הרשאות חשבון Google](https://myaccount.google.com/permissions)&rlm;.
+1. &rlm;**בכל טלפון שבו Back2Life מותקנת:** אם האפליקציה נפתחת — השתמש/י באפשרות א׳. אם לא — פתח/י
+   את הגדרות Android ← אפליקציות ← Back2Life ← אחסון ← **ניקוי נתונים**, ואז הסר/י את האפליקציה.
+   שלב זה בא ראשון, כי אחרת האפליקציה תעלה שוב את הנתונים בהפעלה הבאה שלה.
+2. &rlm;**ב-Google Drive:** מחק/י את התיקייה **"Back2Life – סנכרון נתונים"**, ולאחר מכן רוקן/י אותה
+   מהאשפה של Drive (מחיקה ידנית ב-Drive כן עוברת דרך האשפה).
+3. &rlm;**ביטול הגישה:** הסר/י את Back2Life בעמוד
+   [הרשאות חשבון Google](https://myaccount.google.com/permissions), כדי שטלפון ששכחת לא יוכל
+   להמשיך לסנכרן.
 
-> &rlm;**חשוב:** מחיקת התיקייה ב-Drive בלבד אינה מספיקה כל עוד האפליקציה מותקנת ומחוברת בטלפון
-> כלשהו — במקרה כזה האפליקציה יוצרת תיקייה חדשה וריקה במקום התיקייה שנמחקה.
+> &rlm;**אזהרה:** מחיקת התיקייה ב-Drive בלבד, כשהאפליקציה עדיין מותקנת ומחוברת בטלפון כלשהו, אינה
+> מוחקת את הנתונים שלך. האפליקציה תיצור את התיקייה מחדש ותעלה אליה שוב את הנתונים.
 
 ## &rlm;מה נמחק ומה נשמר
 
-- &rlm;**נמחק:** הכול — הנתונים במכשיר (כולל פרטי חשבון Google ששמורים בו), וכל קובצי Back2Life
-  והתיקייה ב-Google Drive שלך.
-- &rlm;**נשמר אצל המפתחת:** שום דבר. אין לנו שרת ואין לנו עותק של הנתונים שלך.
+- &rlm;**נמחק:** הכול — הנתונים במכשיר (כולל פרטי חשבון Google ששמורים בו), וכל קובצי הנתונים של
+  Back2Life ב-Google Drive שלך.
+- &rlm;**נשמר אצל המפתחת:** שום דבר. אין לנו שרת ואין לנו עותק של הנתונים שלך. לאחר אפשרות א׳
+  נשארים ב-Drive שלך רק התיקייה הריקה והקובץ `account.json` (ללא מידע אישי), עד שתמחק/י אותם.
 
 ## &rlm;עזרה
 
@@ -74,14 +85,14 @@ This page explains how to delete your account and all data of the **Back2Life** 
 `com.back2life.app`), developed and maintained by an individual developer, Rene Dvash.
 
 The app has no developer server. Your data exists only on your device and in a folder in your own
-Google Drive, so deletion is done by you and takes effect immediately (on other phones, as described
-below).
+Google Drive, so deletion is done by you and takes effect immediately.
 
 > **Status as of 29.09.2026:** the Google sign-in and Google Drive storage are not yet active in the
 > distributed version of the app. Until they are, all data is stored on the device only, and
-> uninstalling the app deletes it.
+> uninstalling the app deletes it. The instructions below describe the planned behavior once they
+> are active.
 
-## Option A: delete in the app
+## Option A: delete in the app (recommended)
 
 _Available once the Google component is active (see the status note above)._
 
@@ -89,34 +100,44 @@ _Available once the Google component is active (see the status note above)._
 2. Choose **"מחיקת חשבון"** (Delete account).
 3. Confirm twice (double confirmation).
 
-This deletes all local data on the device and all Back2Life files and the
-"Back2Life – סנכרון נתונים" folder in your Google Drive. The deletion is permanent and cannot be
-undone.
+You only need to do this on **one** phone. The result:
 
-**More than one phone:** you only need to do this on **one** phone. Every other phone signed in to
-the same account deletes its local data and signs out the next time it connects to the internet. A
-phone that stays offline keeps its local data until it connects. On a phone that will never connect
-again, clear the app's data or uninstall the app.
+- All Back2Life data files in your Google Drive are deleted **permanently**. They do **not** go to
+  Drive's trash, so there is nothing to empty afterwards.
+- The folder "Back2Life – סנכרון נתונים" and the small `account.json` file remain. The file holds
+  only a random identifier and a timestamp, no personal data, and it lets your other phones learn
+  that the account was deleted. You may delete the folder manually afterwards.
+- All local data on that phone is deleted, and you are signed out.
+- Every other phone signed in to the same account deletes its own local data and signs out the next
+  time it connects to the internet, instead of uploading its data again. A phone that stays
+  offline keeps its local data until it connects.
+
+On a phone that will never connect to the internet again, you still need to clear the app's data or
+uninstall the app.
 
 ## Option B: delete without the app
 
-For users who cannot use the app. Follow the steps in this order:
+Follow these steps **in this order**:
 
-1. **On every phone** where the app is installed: clear the app's data in Android settings or
-   uninstall the app, to remove local data.
-2. **In Google Drive:** delete the folder **"Back2Life – סנכרון נתונים"**, then delete it
-   permanently from Drive's trash.
-3. **Revoke access:** remove Back2Life from the apps with access to your account at
-   [Google Account permissions](https://myaccount.google.com/permissions).
+1. **On every phone where Back2Life is installed:** if the app opens, use Option A. If it does not,
+   open Android Settings → Apps → Back2Life → Storage → **Clear data**, then uninstall the app.
+   This step comes first because otherwise the app uploads the data again the next time it runs.
+2. **In Google Drive:** delete the folder **"Back2Life – סנכרון נתונים"**, then empty it from
+   Drive's trash (manual deletion in Drive does go through the trash).
+3. **Revoke access:** remove Back2Life at
+   [Google Account permissions](https://myaccount.google.com/permissions), so that a forgotten
+   phone can no longer sync.
 
-> **Important:** deleting only the Drive folder is not enough while the app is installed and signed
-> in on any phone — in that case the app creates a new, empty folder in place of the deleted one.
+> **Warning:** deleting only the Drive folder while the app is still installed and signed in on any
+> phone does not delete your data. The app will recreate the folder and upload the data again.
 
 ## What is deleted and what is kept
 
 - **Deleted:** everything — the data on your device (including the Google account details stored
-  there), and all Back2Life files and the folder in your Google Drive.
-- **Kept by the developer:** nothing. We run no server and hold no copy of your data.
+  there), and all Back2Life data files in your Google Drive.
+- **Kept by the developer:** nothing. We run no server and hold no copy of your data. After Option
+  A, only the empty folder and the `account.json` file (no personal data) stay in your Drive until
+  you delete them.
 
 ## Help
 
