@@ -142,12 +142,15 @@ title: Back2Life – Privacy Policy / מדיניות פרטיות
   ב-Drive נשמרים עד שתמחק/י אותם.
 - &rlm;**מחיקה מלאה מתוך האפליקציה (לאחר ההפעלה):** הגדרות ← "מחיקת חשבון" (עם אישור כפול) מוחקת את
   כל הנתונים המקומיים ואת כל קובצי Back2Life ואת התיקייה ב-Google Drive&rlm;. המחיקה סופית ואינה ניתנת
-  לשחזור.
+  לשחזור. מספיק לבצע אותה בטלפון אחד: כל טלפון אחר שמחובר לאותו חשבון מוחק את הנתונים המקומיים שלו
+  ומתנתק בפעם הבאה שהוא מתחבר לאינטרנט. טלפון שנשאר ללא חיבור שומר את הנתונים המקומיים שלו עד
+  שיתחבר; בטלפון שלא יתחבר שוב לעולם יש לנקות את נתוני האפליקציה או להסיר אותה.
 - &rlm;**הסרת האפליקציה** מוחקת רק את הנתונים המקומיים. קובצי Back2Life ב-Drive, אם קיימים, נשארים
   בחשבון שלך עד שתמחק/י אותם.
-- &rlm;**מחיקה ידנית, בלי האפליקציה:** מחק/י ב-Google Drive את התיקייה "Back2Life – סנכרון נתונים"
-  (ורוקן/י אותה מהאשפה של Drive), ובטל/י את הגישה של Back2Life בהגדרות חשבון Google&rlm;. הוראות מלאות
-  בעמוד [מחיקת חשבון](delete-account.md)&rlm;.
+- &rlm;**מחיקה ידנית, בלי האפליקציה:** לפי הסדר — (1) בכל טלפון: ניקוי נתוני האפליקציה או הסרתה;
+  (2) מחיקת התיקייה "Back2Life – סנכרון נתונים" ב-Google Drive וריקונה מהאשפה של Drive&rlm;; (3) ביטול
+  הגישה של Back2Life בהגדרות חשבון Google&rlm;. מחיקת התיקייה בלבד אינה מספיקה כל עוד האפליקציה
+  מותקנת ומחוברת בטלפון כלשהו. הוראות מלאות בעמוד [מחיקת חשבון](delete-account.md)&rlm;.
 - &rlm;**ניתוק הגישה או התנתקות:** ניתן לבטל בכל עת את הגישה של Back2Life לחשבון דרך
   [הגדרות חשבון Google](https://myaccount.google.com/permissions), או להתנתק באפליקציה. הסנכרון
   נפסק; הנתונים שכבר נמצאים במכשיר נשארים בו, והאפליקציה תבקש להתחבר מחדש כדי להמשיך.
@@ -323,12 +326,17 @@ device settings.
   in your Drive folder is kept until you delete it.
 - **Full deletion in the app (once active):** Settings → "מחיקת חשבון" (Delete account, with a
   double confirmation) deletes all local data and all Back2Life files and the folder in Google
-  Drive. This is permanent and cannot be undone.
+  Drive. This is permanent and cannot be undone. You only need to do it on one phone: every other
+  phone signed in to the same account deletes its local data and signs out the next time it
+  connects to the internet. A phone that stays offline keeps its local data until it connects; on a
+  phone that will never connect again, clear the app's data or uninstall the app.
 - **Uninstalling the app** deletes only local data. Back2Life files in Drive, if any, stay in your
   account until you delete them.
-- **Manual deletion, without the app:** delete the folder "Back2Life – סנכרון נתונים" in Google
-  Drive (and empty it from Drive's trash), and remove Back2Life's access in your Google Account
-  settings. Step-by-step instructions are on the [Delete account](delete-account.md) page.
+- **Manual deletion, without the app:** in this order — (1) on every phone, clear the app's data or
+  uninstall it; (2) delete the folder "Back2Life – סנכרון נתונים" in Google Drive and empty it from
+  Drive's trash; (3) remove Back2Life's access in your Google Account settings. Deleting only the
+  folder is not enough while the app is installed and signed in on any phone. Step-by-step
+  instructions are on the [Delete account](delete-account.md) page.
 - **Revoking access or signing out:** you can remove Back2Life's access to your Google account at
   any time at [Google Account settings](https://myaccount.google.com/permissions), or sign out in
   the app. Syncing stops; data already on the device stays there, and the app asks you to sign in
