@@ -10,7 +10,7 @@
 
 - 📄 **מדיניות הפרטיות:** [https://renedva.github.io/Back2Life/](https://github.com/ReneDva/Back2Life/blob/main/index.md)
 - 📱 **Google Play:** [יתווסף עם הפרסום]
-- ✉️ **יצירת קשר:** renedvash@gmail.com
+- ✉️ **יצירת קשר:** back2lifesupport@gmail.com
 
 ### עיקרי המדיניות
 - הנתונים נשמרים **במכשיר שלך**.
