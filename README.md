@@ -1,10 +1,10 @@
-<p class="lang-jump" align="left"><a href="#english">English version ↓</a></p>
-
 # Back2Life
 
 <p align="center">
   <a href="https://renedva.github.io/Back2Life/"><img src="assets/Back2Life_APP_LOGO.png" alt="Back2Life" width="360"></a>
 </p>
+
+<p class="lang-jump" align="center"><a href="#english">English version ↓</a></p>
 
 <div dir="rtl" markdown="1">
 

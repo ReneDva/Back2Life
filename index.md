@@ -3,11 +3,11 @@ title: Back2Life – Privacy Policy / מדיניות פרטיות
 description: Privacy policy for Back2Life, a personal Android app for tracking rehab exercises, pain and rest. Data is stored on your device and, once the Google component is active, in a folder in your own Google Drive.
 ---
 
-<p class="lang-jump" align="left"><a href="#english">English version ↓</a></p>
-
 <p align="center">
   <a href="https://renedva.github.io/Back2Life/"><img src="assets/Back2Life_APP_LOGO.png" alt="Back2Life" width="360"></a>
 </p>
+
+<p class="lang-jump" align="center"><a href="#english">English version ↓</a></p>
 
 <div dir="rtl" markdown="1">
 
