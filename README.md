@@ -1,3 +1,5 @@
+<p class="lang-jump" align="left"><a href="#english">English version ↓</a></p>
+
 # Back2Life
 
 <p align="center">
@@ -27,6 +29,8 @@
 </div>
 
 ---
+
+<a id="english"></a>
 
 **Back2Life** is a personal Android app for tracking rehabilitation exercises assigned by your own
 therapist, along with pain, symptoms and rest during the day.
