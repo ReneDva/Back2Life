@@ -8,9 +8,9 @@
 הריפו הזה מארח את **מדיניות הפרטיות** של האפליקציה, כעמוד ציבורי שמוצג בחנות Google Play.
 קוד האפליקציה עצמו אינו נמצא כאן.
 
-- 📄 **מדיניות הפרטיות:** https://renedva.github.io/Back2Life/
+- 📄 **מדיניות הפרטיות:** [https://renedva.github.io/Back2Life/](https://github.com/ReneDva/Back2Life/blob/main/index.md)
 - 📱 **Google Play:** [יתווסף עם הפרסום]
-- ✉️ **יצירת קשר:** [כתובת אימייל ליצירת קשר]
+- ✉️ **יצירת קשר:** renedvash@gmail.com
 
 ### עיקרי המדיניות
 - הנתונים נשמרים **במכשיר שלך**.
