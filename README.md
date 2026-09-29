@@ -1,22 +1,26 @@
 # Back2Life
 
+<p align="center">
+  <img src="assets/Back2Life_APP_LOGO.png" alt="Back2Life" width="360">
+</p>
+
 <div dir="rtl" markdown="1">
 
-**Back2Life** היא אפליקציית Android אישית למעקב אחר תרגילי שיקום שנקבעו על ידי המטפל/ת, וכן אחר
+&rlm;**Back2Life** היא אפליקציית Android אישית למעקב אחר תרגילי שיקום שנקבעו על ידי המטפל/ת, וכן אחר
 כאב, תסמינים ומנוחה לאורך היום.
 
-הריפו הזה מארח את **מדיניות הפרטיות** של האפליקציה, כעמוד ציבורי שמוצג בחנות Google Play.
+&rlm;הריפו הזה מארח את **מדיניות הפרטיות** של האפליקציה, כעמוד ציבורי שמוצג בחנות Google Play.
 קוד האפליקציה עצמו אינו נמצא כאן.
 
-- 📄 **מדיניות הפרטיות:** [https://renedva.github.io/Back2Life/](https://github.com/ReneDva/Back2Life/blob/main/index.md)
-- 📱 **Google Play:** [יתווסף עם הפרסום]
-- ✉️ **יצירת קשר:** back2lifesupport@gmail.com
+- &rlm;📄 **מדיניות הפרטיות:** [https://renedva.github.io/Back2Life/](https://renedva.github.io/Back2Life/)
+- &rlm;📱 **Google Play:** [יתווסף עם הפרסום]
+- &rlm;✉️ **יצירת קשר:** [back2lifesupport@gmail.com](mailto:back2lifesupport@gmail.com)
 
-### עיקרי המדיניות
-- הנתונים נשמרים **במכשיר שלך**.
-- גיבוי **אופציונלי** לתיקייה בחשבון ה-Google Drive **שלך** בלבד, עם הרשאה מוגבלת (`drive.file`).
-- אין שרת, אין פרסומות, אין אנליטיקה, אין שיתוף נתונים עם צד שלישי.
-- מחיקה מלאה של כל הנתונים מתוך האפליקציה, בכל עת.
+### &rlm;עיקרי המדיניות
+- &rlm;הנתונים נשמרים **במכשיר שלך**.
+- &rlm;גיבוי **אופציונלי** לתיקייה בחשבון ה-Google Drive **שלך** בלבד, עם הרשאה מוגבלת (`drive.file`&rlm;).
+- &rlm;אין שרת, אין פרסומות, אין אנליטיקה, אין שיתוף נתונים עם צד שלישי.
+- &rlm;מחיקה מלאה של כל הנתונים מתוך האפליקציה, בכל עת.
 
 </div>
 
@@ -30,7 +34,7 @@ listing. The app's source code is not published here.
 
 - 📄 **Privacy Policy:** https://renedva.github.io/Back2Life/
 - 📱 **Google Play:** [added on release]
-- ✉️ **Contact:** [contact email]
+- ✉️ **Contact:** [back2lifesupport@gmail.com](mailto:back2lifesupport@gmail.com)
 
 ### Policy highlights
 - Your data stays **on your device**.
@@ -44,3 +48,8 @@ listing. The app's source code is not published here.
 | --- | --- |
 | `index.md` | The privacy policy (Hebrew + English), served by GitHub Pages |
 | `README.md` | This page |
+| `assets/` | Logo files (wordmark and app icon; PNG and SVG) |
+
+<p align="center">
+  <img src="assets/Back2Life_ICON.png" alt="Back2Life icon" width="64">
+</p>
