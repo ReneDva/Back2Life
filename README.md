@@ -34,9 +34,9 @@ therapist, along with pain, symptoms and rest during the day.
 This repository hosts the app's **Privacy Policy** as a public page linked from its Google Play
 listing. The app's source code is not published here.
 
-- 📄 **Privacy Policy:** [Back2Life-Privacy Policy](https://github.com/ReneDva/Back2Life/blob/main/index.md)
+- 📄 **Privacy Policy:** [Back2Life-Privacy Policy](https://github.com/ReneDva/Back2Life/blob/main/index.md#english)
 - 📱 **Google Play:** [added on release]
-- 🗑️ **Delete account:** https://renedva.github.io/Back2Life/delete-account
+- 🗑️ **Delete account:** [https://renedva.github.io/Back2Life/delete-account](https://renedva.github.io/Back2Life/delete-account#english)
 - ✉️ **Contact:** [back2lifesupport@gmail.com](mailto:back2lifesupport@gmail.com)
 
 ### Policy highlights
@@ -44,7 +44,7 @@ listing. The app's source code is not published here.
 - Your data is stored **on your device** and (once active) in a visible folder in **your own** Google Drive, using
   only the limited `drive.file` scope.
 - No server, no ads, no analytics, no data sharing with third parties.
-- Full deletion of all your data at any time — see [Delete account](https://renedva.github.io/Back2Life/delete-account).
+- Full deletion of all your data at any time — see [Delete account](https://renedva.github.io/Back2Life/delete-account#english).
 
 ## Repository contents
 

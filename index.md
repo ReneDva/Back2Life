@@ -182,6 +182,8 @@ Google שלך יכול לפתוח אותם. מומלץ להגן על המכשי�
 
 ---
 
+<a id="english"></a>
+
 # Privacy Policy — Back2Life
 
 **Effective date:** 29.09.2026
@@ -336,7 +338,7 @@ device settings.
   uninstall it; (2) delete the folder "Back2Life – סנכרון נתונים" in Google Drive and empty it from
   Drive's trash; (3) remove Back2Life's access in your Google Account settings. Deleting only the
   folder is not enough while the app is installed and signed in on any phone. Step-by-step
-  instructions are on the [Delete account](delete-account.md) page.
+  instructions are on the [Delete account](delete-account.md#english) page.
 - **Revoking access or signing out:** you can remove Back2Life's access to your Google account at
   any time at [Google Account settings](https://myaccount.google.com/permissions), or sign out in
   the app. Syncing stops; data already on the device stays there, and the app asks you to sign in
