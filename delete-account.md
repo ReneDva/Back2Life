@@ -35,7 +35,8 @@ description: How to delete your Back2Life account and all of its data, on your d
   Drive&rlm;, ולכן אין מה לרוקן אחר כך.
 - &rlm;התיקייה "Back2Life – סנכרון נתונים" והקובץ הקטן `account.json` נשארים. הקובץ מכיל רק מזהה
   אקראי וחותמת זמן, ללא מידע אישי, והוא מאפשר לטלפונים האחרים שלך לדעת שהחשבון נמחק. אפשר למחוק
-  את התיקייה ידנית לאחר מכן.
+  את התיקייה ידנית לאחר מכן, אבל מומלץ להמתין עד שכל הטלפונים שלך התחברו לאינטרנט, כדי שכל אחד
+  מהם יספיק לגלות שהחשבון נמחק.
 - &rlm;כל הנתונים המקומיים בטלפון הזה נמחקים, ואת/ה מנותק/ת מהחשבון.
 - &rlm;כל טלפון אחר שמחובר לאותו חשבון מוחק בעצמו את הנתונים המקומיים שלו ומתנתק בפעם הבאה שהוא
   מתחבר לאינטרנט, במקום להעלות שוב את הנתונים שלו. טלפון שנשאר ללא חיבור שומר את הנתונים
@@ -57,7 +58,9 @@ description: How to delete your Back2Life account and all of its data, on your d
    להמשיך לסנכרן.
 
 > &rlm;**אזהרה:** מחיקת התיקייה ב-Drive בלבד, כשהאפליקציה עדיין מותקנת ומחוברת בטלפון כלשהו, אינה
-> מוחקת את הנתונים שלך. האפליקציה תיצור את התיקייה מחדש ותעלה אליה שוב את הנתונים.
+> מוחקת את הנתונים שלך. האפליקציה תיצור את התיקייה מחדש ותעלה אליה שוב את הנתונים. מחיקה ישירה של
+> התיקייה בענן מחייבת להסיר קודם את האפליקציה מכל מכשיר שהיא מותקנת בו, כדי שהנתונים לא יסונכרנו
+> שוב פנימה.
 
 ## &rlm;מה נמחק ומה נשמר
 
@@ -107,7 +110,9 @@ You only need to do this on **one** phone. The result:
   Drive's trash, so there is nothing to empty afterwards.
 - The folder "Back2Life – סנכרון נתונים" and the small `account.json` file remain. The file holds
   only a random identifier and a timestamp, no personal data, and it lets your other phones learn
-  that the account was deleted. You may delete the folder manually afterwards.
+  that the account was deleted. You may delete the folder manually afterwards, but we recommend
+  waiting until all your phones have connected to the internet, so that each of them has a chance
+  to learn that the account was deleted.
 - All local data on that phone is deleted, and you are signed out.
 - Every other phone signed in to the same account deletes its own local data and signs out the next
   time it connects to the internet, instead of uploading its data again. A phone that stays
@@ -130,7 +135,9 @@ Follow these steps **in this order**:
    phone can no longer sync.
 
 > **Warning:** deleting only the Drive folder while the app is still installed and signed in on any
-> phone does not delete your data. The app will recreate the folder and upload the data again.
+> phone does not delete your data. The app will recreate the folder and upload the data again. To
+> delete the folder directly in the cloud, first remove the app from every device where it is
+> installed, so that the data is not synced back in.
 
 ## What is deleted and what is kept
 

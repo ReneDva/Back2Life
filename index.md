@@ -151,14 +151,15 @@ description: Privacy policy for Back2Life, a personal Android app for tracking r
     לאשפה של Drive, ולכן אין מה לרוקן אחר כך.
   - &rlm;משאירה את התיקייה "Back2Life – סנכרון נתונים" ואת הקובץ הקטן `account.json` (מזהה אקראי
     וחותמת זמן, ללא מידע אישי), כדי שהטלפונים האחרים שלך יידעו שהחשבון נמחק. אפשר למחוק את
-    התיקייה ידנית לאחר מכן.
+    התיקייה ידנית לאחר מכן, אבל מומלץ להמתין עד שכל הטלפונים שלך התחברו לאינטרנט.
   - &rlm;מוחקת את כל הנתונים המקומיים בטלפון הזה ומנתקת אותך מהחשבון.
   - &rlm;כל טלפון אחר שמחובר לאותו חשבון מוחק בעצמו את הנתונים המקומיים שלו ומתנתק בפעם הבאה
     שהוא מתחבר לאינטרנט, במקום להעלות שוב את הנתונים שלו. טלפון שנשאר ללא חיבור שומר את
     הנתונים המקומיים שלו עד שיתחבר. בטלפון שלא יתחבר שוב לאינטרנט לעולם יש לנקות את נתוני
     האפליקציה או להסיר אותה.
 - &rlm;**מחיקת התיקייה ב-Drive בלבד אינה מחיקה של הנתונים:** בכל טלפון שהאפליקציה עדיין מותקנת ומחוברת
-  בו, היא תיצור את התיקייה מחדש ותעלה אליה שוב את הנתונים.
+  בו, היא תיצור את התיקייה מחדש ותעלה אליה שוב את הנתונים. מחיקה ישירה של התיקייה בענן מחייבת להסיר
+  קודם את האפליקציה מכל מכשיר שהיא מותקנת בו, כדי שהנתונים לא יסונכרנו שוב פנימה.
 - &rlm;**הסרת האפליקציה** מוחקת רק את הנתונים המקומיים באותו טלפון. קובצי Back2Life ב-Drive, אם קיימים,
   נשארים בחשבון שלך עד שתמחק/י אותם.
 - &rlm;**מחיקה ידנית, בלי האפליקציה:** לפי הסדר — (1) בכל טלפון שהאפליקציה מותקנת בו: פתיחת
@@ -350,14 +351,17 @@ device settings.
     Drive's trash, so there is nothing to empty afterwards.
   - It keeps the folder "Back2Life – סנכרון נתונים" and the small `account.json` file (a random
     identifier and a timestamp, no personal data), so that your other phones learn the account was
-    deleted. You may delete the folder manually afterwards.
+    deleted. You may delete the folder manually afterwards, but we recommend waiting until all your
+    phones have connected to the internet.
   - It deletes all local data on that phone and signs you out.
   - Every other phone signed in to the same account deletes its own local data and signs out the
     next time it connects to the internet, instead of uploading its data again. A phone that stays
     offline keeps its local data until it connects. On a phone that will never connect to the
     internet again, clear the app's data or uninstall the app.
 - **Deleting only the Drive folder is not a deletion:** on any phone where the app is still
-  installed and signed in, it recreates the folder and uploads the data again.
+  installed and signed in, it recreates the folder and uploads the data again. To delete the folder
+  directly in the cloud, first remove the app from every device where it is installed, so that the
+  data is not synced back in.
 - **Uninstalling the app** deletes only the local data on that phone. Back2Life files in Drive, if
   any, stay in your account until you delete them.
 - **Manual deletion, without the app:** in this order — (1) on every phone where the app is
