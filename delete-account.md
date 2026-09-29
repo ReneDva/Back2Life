@@ -4,7 +4,7 @@ description: How to delete your Back2Life account and all of its data, on your d
 ---
 
 <p align="center">
-  <img src="assets/Back2Life_APP_LOGO.png" alt="Back2Life" width="360">
+  <a href="https://renedva.github.io/Back2Life/"><img src="assets/Back2Life_APP_LOGO.png" alt="Back2Life" width="360"></a>
 </p>
 
 <div dir="rtl" markdown="1">
