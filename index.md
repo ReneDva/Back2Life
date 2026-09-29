@@ -6,12 +6,12 @@ title: Back2Life – Privacy Policy / מדיניות פרטיות
 
 # מדיניות פרטיות — Back2Life
 
-**בתוקף מתאריך:** [להשלים בעת פרסום]
-**עדכון אחרון:** [להשלים בעת פרסום]
+**בתוקף מתאריך:** 29.09.2026
+**עדכון אחרון:** 29.09.2026
 
 מסמך זה מסביר אילו נתונים האפליקציה **Back2Life** (מזהה חבילה: `com.back2life.app`) מטפלת בהם,
 היכן הם נשמרים, ומה השליטה שיש לך עליהם. האפליקציה פותחה ומתוחזקת על ידי מפתח/ת פרטי/ת:
-[שם המפתח/ת] ("אנחנו").
+רנה דבש ("אנחנו").
 
 **בקצרה:** הנתונים שלך נשמרים במכשיר שלך. אם תבחר/י בכך, הם מגובים לתיקייה בחשבון ה-Google Drive
 **שלך**. אין לנו שרת, ואנחנו לא רואים, אוספים, מוכרים או משתפים את הנתונים שלך. אין פרסומות ואין
@@ -133,12 +133,12 @@ Back2Life היא כלי אישי למעקב אחר תרגילי שיקום שכ�
 
 # Privacy Policy — Back2Life
 
-**Effective date:** [fill in on publication]
-**Last updated:** [fill in on publication]
+**Effective date:** 29.09.2026
+**Last updated:** 29.09.2026
 
 This policy explains what data the **Back2Life** app (package `com.back2life.app`) handles, where it
 is stored, and the control you have over it. The app is developed and maintained by an individual
-developer, [developer name] ("we"). The Hebrew version above and this English version have the
+developer, Rene Dvash ("we"). The Hebrew version above and this English version have the
 same meaning.
 
 **In short:** your data stays on your device. If you choose, it is backed up to a folder in **your
@@ -260,4 +260,4 @@ in the app before it takes effect.
 
 ## 13. Contact
 
-Privacy questions or requests: **[contact email]**
+Privacy questions or requests: **[contact email]** back2lifesupport@gmail.coms
