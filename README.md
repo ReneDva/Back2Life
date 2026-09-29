@@ -12,7 +12,7 @@
 &rlm;הריפו הזה מארח את **מדיניות הפרטיות** של האפליקציה, כעמוד ציבורי שמוצג בחנות Google Play.
 קוד האפליקציה עצמו אינו נמצא כאן.
 
-- &rlm;📄 **מדיניות הפרטיות:** [https://renedva.github.io/Back2Life/](https://renedva.github.io/Back2Life/)
+- &rlm;📄 **מדיניות הפרטיות:** [https://renedva.github.io/Back2Life/&lrm;](https://renedva.github.io/Back2Life/)
 - &rlm;📱 **Google Play:** [יתווסף עם הפרסום]
 - &rlm;✉️ **יצירת קשר:** [back2lifesupport@gmail.com](mailto:back2lifesupport@gmail.com)
 
