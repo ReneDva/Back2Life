@@ -1,3 +1,24 @@
 <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
 <link rel="icon" type="image/png" href="{{ '/favicon.png' | relative_url }}" sizes="192x192">
 <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
+<meta name="color-scheme" content="light dark">
+<style>
+  /* The site title link the theme adds above the content is replaced by the clickable logo. */
+  .markdown-body > h1:first-child { display: none; }
+  .markdown-body img { background-color: transparent; }
+
+  @media (prefers-color-scheme: dark) {
+    body { background-color: #0d1117; color: #e6edf3; }
+    a { color: #58a6ff; }
+    .markdown-body h1, .markdown-body h2 { border-bottom-color: #30363d; }
+    .markdown-body h6, .markdown-body blockquote { color: #8b949e; }
+    .markdown-body blockquote { border-left-color: #30363d; }
+    .markdown-body hr { background-color: #30363d; }
+    .markdown-body code, .markdown-body tt { background-color: rgba(110, 118, 129, 0.4); }
+    .markdown-body table th, .markdown-body table td { border-color: #30363d; }
+    .markdown-body table tr { background-color: #0d1117; border-top-color: #30363d; }
+    .markdown-body table tr:nth-child(2n) { background-color: #161b22; }
+    /* The wordmark has dark navy parts; a thin light outline keeps them readable on a dark page. */
+    .markdown-body img[alt="Back2Life"] { filter: drop-shadow(0 0 1px #fff) drop-shadow(0 0 1px #fff); }
+  }
+</style>
