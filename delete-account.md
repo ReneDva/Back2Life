@@ -3,6 +3,8 @@ title: Back2Life – Delete account / מחיקת חשבון
 description: How to delete your Back2Life account and all of its data, on your device and in your own Google Drive.
 ---
 
+<p class="lang-jump" align="left"><a href="#english">English version ↓</a></p>
+
 <p align="center">
   <a href="https://renedva.github.io/Back2Life/"><img src="assets/Back2Life_APP_LOGO.png" alt="Back2Life" width="360"></a>
 </p>

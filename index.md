@@ -3,6 +3,8 @@ title: Back2Life – Privacy Policy / מדיניות פרטיות
 description: Privacy policy for Back2Life, a personal Android app for tracking rehab exercises, pain and rest. Data is stored on your device and, once the Google component is active, in a folder in your own Google Drive.
 ---
 
+<p class="lang-jump" align="left"><a href="#english">English version ↓</a></p>
+
 <p align="center">
   <a href="https://renedva.github.io/Back2Life/"><img src="assets/Back2Life_APP_LOGO.png" alt="Back2Life" width="360"></a>
 </p>
@@ -28,13 +30,29 @@ description: Privacy policy for Back2Life, a personal Android app for tracking r
 אוטומטית לאחר ההתחברות. אין לנו שרת, ואנחנו לא רואים, אוספים, מוכרים או משתפים את הנתונים שלך.
 אין פרסומות ואין כלי מעקב או אנליטיקה.
 
-## &rlm;1. מהי האפליקציה
+&rlm;**תוכן עניינים**
+
+- &rlm;[1. מהי האפליקציה](#he-1)
+- &rlm;[2. אילו נתונים האפליקציה מטפלת בהם](#he-2)
+- &rlm;[3. היכן הנתונים נשמרים](#he-3)
+- &rlm;[4. הרשאות Google Drive](#he-4)
+- &rlm;[5. שיתוף נתונים](#he-5)
+- &rlm;[6. תקשורת ברשת](#he-6)
+- &rlm;[7. התראות](#he-7)
+- &rlm;[8. הרשאות Android](#he-8)
+- &rlm;[9. שמירת נתונים ומחיקתם](#he-9)
+- &rlm;[10. אבטחה](#he-10)
+- &rlm;[11. ילדים](#he-11)
+- &rlm;[12. שינויים במדיניות](#he-12)
+- &rlm;[13. יצירת קשר](#he-13)
+
+## <a id="he-1"></a>&rlm;1. מהי האפליקציה
 
 &rlm;Back2Life היא כלי אישי למעקב אחר תרגילי שיקום שכבר נקבעו לך על ידי המטפל/ת שלך, ואחר תסמינים,
 כאב ומנוחה לאורך היום. האפליקציה **אינה** מכשיר רפואי, אינה מספקת אבחון, ייעוץ רפואי או טיפול
 מרחוק, ואינה מחליפה איש/אשת מקצוע.
 
-## &rlm;2. אילו נתונים האפליקציה מטפלת בהם
+## <a id="he-2"></a>&rlm;2. אילו נתונים האפליקציה מטפלת בהם
 
 ### &rlm;2.1 נתונים שאת/ה מזין/ה
 - &rlm;תרגילים, קבוצות תרגילים, סטים וביצועים יומיים.
@@ -62,7 +80,7 @@ description: Privacy policy for Back2Life, a personal Android app for tracking r
 &rlm;מיקום, אנשי קשר, מצלמה, מיקרופון, מזהי פרסום, היסטוריית גלישה או כל מידע ממכשירים אחרים.
 האפליקציה אינה כוללת רכיבי פרסום, אנליטיקה או דיווחי קריסות של צד שלישי.
 
-## &rlm;3. היכן הנתונים נשמרים
+## <a id="he-3"></a>&rlm;3. היכן הנתונים נשמרים
 
 - &rlm;**במכשיר שלך:** הנתונים נשמרים במאגר המקומי של האפליקציה. תרגילים, משימות חד־פעמיות והגדרות
   נשמרים במכשיר ללא הגבלת זמן. ההיסטוריה נשמרת במכשיר עבור 90 הימים האחרונים; רשומות ישנות יותר
@@ -83,7 +101,7 @@ description: Privacy policy for Back2Life, a personal Android app for tracking r
 > &rlm;**חשוב:** התיקייה ב-Drive היא חלק מהנתונים שלך. מחיקה או ריקון של התיקייה מוחקים לצמיתות את
 > ההיסטוריה הישנה מ-90 יום.
 
-## &rlm;4. הרשאות Google Drive
+## <a id="he-4"></a>&rlm;4. הרשאות Google Drive
 
 &rlm;_עדיין לא פעיל — ראו הערת הסטטוס למעלה._
 
@@ -108,7 +126,7 @@ description: Privacy policy for Back2Life, a personal Android app for tracking r
 כולל דרישות ה-Limited Use&rlm;. המידע משמש אך ורק לשמירה, לסנכרון ולשחזור של הנתונים שלך, לא מועבר
 לאף אחד, לא משמש לפרסום, ואף אדם לא קורא אותו.
 
-## &rlm;5. שיתוף נתונים
+## <a id="he-5"></a>&rlm;5. שיתוף נתונים
 
 &rlm;אנחנו **לא** מוכרים, משכירים או משתפים את הנתונים שלך עם צד שלישי כלשהו.
 
@@ -118,7 +136,7 @@ description: Privacy policy for Back2Life, a personal Android app for tracking r
 - &rlm;**שמירת גרף כתמונה:** התמונה נשמרת בגלריה של המכשיר שלך.
 - &rlm;**ייבוא מקובץ Excel:** האפליקציה קוראת רק את הקובץ שבחרת.
 
-## &rlm;6. תקשורת ברשת
+## <a id="he-6"></a>&rlm;6. תקשורת ברשת
 
 &rlm;האפליקציה פונה לרשת רק לצורך:
 - &rlm;**Google Sign-In ו-Google Drive API** (לאחר ההפעלה) — כל עוד את/ה מחובר/ת, הסנכרון עם התיקייה
@@ -127,12 +145,12 @@ description: Privacy policy for Back2Life, a personal Android app for tracking r
 - &rlm;**Google Fonts** — טעינת הגופנים של הממשק משרתי Google&rlm;. בקשה זו חושפת ל-Google נתונים טכניים
   רגילים (כתובת IP וסוג הדפדפן/המכשיר) ואינה כוללת שום נתון שהזנת.
 
-## &rlm;7. התראות
+## <a id="he-7"></a>&rlm;7. התראות
 
 &rlm;תזכורות נקבעות ומוצגות **על המכשיר בלבד** (התראות מקומיות). אין שרת התראות ואין שליחת מידע החוצה.
 ניתן לבטל את הרשאת ההתראות בכל עת בהגדרות המכשיר.
 
-## &rlm;8. הרשאות Android
+## <a id="he-8"></a>&rlm;8. הרשאות Android
 
 | &rlm;הרשאה | &rlm;למה |
 | --- | --- |
@@ -141,7 +159,7 @@ description: Privacy policy for Back2Life, a personal Android app for tracking r
 | &rlm;תזמון התראות מדויק, הפעלה לאחר אתחול, מניעת שינה | &rlm;כדי שתזכורות יופיעו בזמן, גם אחרי הפעלה מחדש של המכשיר |
 | &rlm;שימוש בפרטי חשבון | &rlm;התחברות עם Google (נדרשת לאחר ההפעלה) |
 
-## &rlm;9. שמירת נתונים ומחיקתם
+## <a id="he-9"></a>&rlm;9. שמירת נתונים ומחיקתם
 
 - &rlm;הנתונים במכשיר נשמרים כמתואר בסעיף 3 (90 הימים האחרונים של ההיסטוריה; תרגילים, משימות
   חד־פעמיות והגדרות ללא הגבלת זמן) עד שתמחק/י אותם או תסיר/י את האפליקציה. הנתונים בתיקייה
@@ -173,23 +191,23 @@ description: Privacy policy for Back2Life, a personal Android app for tracking r
 &rlm;מאחר שאין לנו עותק של הנתונים שלך, איננו יכולים לשחזר או למחוק אותם עבורך — המחיקה נמצאת
 בשליטתך המלאה, כמתואר למעלה.
 
-## &rlm;10. אבטחה
+## <a id="he-10"></a>&rlm;10. אבטחה
 
 &rlm;הנתונים נשמרים בתוך האזור הפרטי של האפליקציה במכשיר, שאפליקציות אחרות אינן יכולות לגשת אליו.
 התקשורת עם Google מוצפנת (HTTPS&rlm;). הקבצים ב-Google Drive מוגנים באמצעי האבטחה וההצפנה של
 Google עצמה; האפליקציה **אינה** מוסיפה להם הצפנה משלה מקצה לקצה, ולכן כל מי שיש לו גישה לחשבון
 Google שלך יכול לפתוח אותם. מומלץ להגן על המכשיר בנעילת מסך ועל חשבון Google באימות דו־שלבי.
 
-## &rlm;11. ילדים
+## <a id="he-11"></a>&rlm;11. ילדים
 
 &rlm;האפליקציה אינה מיועדת לילדים מתחת לגיל 13, ואיננו אוספים ביודעין מידע מילדים.
 
-## &rlm;12. שינויים במדיניות
+## <a id="he-12"></a>&rlm;12. שינויים במדיניות
 
 &rlm;אם המדיניות תשתנה, הגרסה המעודכנת תפורסם בעמוד זה ותאריך "עדכון אחרון" יתעדכן. שינוי מהותי
 (למשל שליחת נתונים לגורם חדש) יוצג גם בתוך האפליקציה לפני שייכנס לתוקף.
 
-## &rlm;13. יצירת קשר
+## <a id="he-13"></a>&rlm;13. יצירת קשר
 
 &rlm;לשאלות או בקשות בנושא פרטיות: **[back2lifesupport@gmail.com](mailto:back2lifesupport@gmail.com)**
 
@@ -219,13 +237,29 @@ a folder in **your own** Google Drive. Signing in with Google will be required t
 syncing to that folder will start automatically after you sign in. We run no server, and we do not
 see, collect, sell or share your data. There are no ads and no tracking or analytics.
 
-## 1. What the app is
+**Contents**
+
+- [1. What the app is](#en-1)
+- [2. Data the app handles](#en-2)
+- [3. Where data is stored](#en-3)
+- [4. Google Drive permission](#en-4)
+- [5. Sharing](#en-5)
+- [6. Network use](#en-6)
+- [7. Notifications](#en-7)
+- [8. Android permissions](#en-8)
+- [9. Retention and deletion](#en-9)
+- [10. Security](#en-10)
+- [11. Children](#en-11)
+- [12. Changes to this policy](#en-12)
+- [13. Contact](#en-13)
+
+## <a id="en-1"></a>1. What the app is
 
 Back2Life is a personal tool for tracking rehabilitation exercises already assigned by your own
 therapist, along with symptoms, pain and rest during the day. It is **not** a medical device, does
 not provide diagnosis, medical advice or telehealth, and does not replace a professional.
 
-## 2. Data the app handles
+## <a id="en-2"></a>2. Data the app handles
 
 ### 2.1 Data you enter
 - Exercises, exercise groups, sets and daily completion.
@@ -253,7 +287,7 @@ and to access that account's Back2Life folder in Google Drive. They are never se
 Location, contacts, camera, microphone, advertising IDs, browsing history, or data from other
 devices. The app contains no third-party advertising, analytics or crash-reporting components.
 
-## 3. Where data is stored
+## <a id="en-3"></a>3. Where data is stored
 
 - **On your device:** data is kept in the app's local storage. Exercises, one-time tasks and
   settings stay on the device without a time limit. History is kept on the device for the last
@@ -275,7 +309,7 @@ devices. The app contains no third-party advertising, analytics or crash-reporti
 > **Important:** the Drive folder is part of your data. Deleting or emptying it permanently deletes
 > your history older than 90 days.
 
-## 4. Google Drive permission
+## <a id="en-4"></a>4. Google Drive permission
 
 _Not active yet — see the status note above._
 
@@ -303,7 +337,7 @@ to the [Google API Services User Data Policy](https://developers.google.com/term
 including the Limited Use requirements. This information is used only to store, sync and restore
 your own data; it is not transferred to anyone, not used for advertising, and not read by any human.
 
-## 5. Sharing
+## <a id="en-5"></a>5. Sharing
 
 We do **not** sell, rent or share your data with any third party.
 
@@ -314,7 +348,7 @@ Data leaves the app only when you act:
 - **Save a chart as an image:** the image is saved to your device's photo gallery.
 - **Import from Excel:** the app reads only the file you select.
 
-## 6. Network use
+## <a id="en-6"></a>6. Network use
 
 The app connects to the network only for:
 - **Google Sign-In and the Google Drive API** (once active) — while you are signed in, syncing with
@@ -325,13 +359,13 @@ The app connects to the network only for:
   ordinary technical data (IP address and browser/device type) to Google and contains none of the
   data you entered.
 
-## 7. Notifications
+## <a id="en-7"></a>7. Notifications
 
 Reminders are scheduled and shown **on the device only** (local notifications). There is no push
 server and nothing is sent out. You can revoke the notification permission at any time in your
 device settings.
 
-## 8. Android permissions
+## <a id="en-8"></a>8. Android permissions
 
 | Permission | Why |
 | --- | --- |
@@ -340,7 +374,7 @@ device settings.
 | Exact alarms, run at startup, wake lock | So reminders fire on time, including after a device restart |
 | Use credentials | Google Sign-In (required once active) |
 
-## 9. Retention and deletion
+## <a id="en-9"></a>9. Retention and deletion
 
 - Data on the device is kept as described in section 3 (the last 90 days of history; exercises,
   one-time tasks and settings without a time limit) until you delete it or uninstall the app. Data
@@ -377,7 +411,7 @@ device settings.
 Because we hold no copy of your data, we cannot restore or delete it for you — deletion is fully in
 your hands, as described above.
 
-## 10. Security
+## <a id="en-10"></a>10. Security
 
 Data is stored in the app's private area on the device, which other apps cannot access.
 Communication with Google is encrypted (HTTPS). Files in your Google Drive are protected by Google's
@@ -385,17 +419,17 @@ own security and encryption; the app does **not** add its own end-to-end encrypt
 anyone with access to your Google account can open them. We recommend protecting your device with a
 screen lock and your Google account with 2-step verification.
 
-## 11. Children
+## <a id="en-11"></a>11. Children
 
 The app is not directed to children under 13, and we do not knowingly collect data from children.
 
-## 12. Changes to this policy
+## <a id="en-12"></a>12. Changes to this policy
 
 If this policy changes, the updated version will be published on this page and the "Last updated"
 date will change. A material change (for example, sending data to a new party) will also be shown
 in the app before it takes effect.
 
-## 13. Contact
+## <a id="en-13"></a>13. Contact
 
 Privacy questions or requests: **[back2lifesupport@gmail.com](mailto:back2lifesupport@gmail.com)**
 

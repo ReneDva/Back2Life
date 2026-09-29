@@ -7,9 +7,18 @@
   .markdown-body > h1:first-child { display: none; }
   .markdown-body img { background-color: transparent; }
 
+  html { scroll-behavior: smooth; }
+  /* Button that jumps to the English version of the same page. */
+  .markdown-body > .lang-jump { text-align: left; margin: 0 0 16px; }
+  .lang-jump a { display: inline-block; padding: 6px 14px; border: 1px solid #d0d7de; border-radius: 6px;
+    background-color: #f6f8fa; color: #24292e; font-weight: 600; text-decoration: none; }
+  .lang-jump a:hover { background-color: #eaeef2; }
+
   @media (prefers-color-scheme: dark) {
     body { background-color: #0d1117; color: #e6edf3; }
     a { color: #58a6ff; }
+    .lang-jump a { border-color: #30363d; background-color: #21262d; color: #e6edf3; }
+    .lang-jump a:hover { background-color: #30363d; }
     .markdown-body h1, .markdown-body h2 { border-bottom-color: #30363d; }
     .markdown-body h6, .markdown-body blockquote { color: #8b949e; }
     .markdown-body blockquote { border-left-color: #30363d; }
