@@ -12,7 +12,7 @@
 &rlm;הריפו הזה מארח את **מדיניות הפרטיות** של האפליקציה, כעמוד ציבורי שמוצג בחנות Google Play&rlm;.
 קוד האפליקציה עצמו אינו נמצא כאן.
 
-- &rlm;📄 **מדיניות הפרטיות:** [https://renedva.github.io/Back2Life/&lrm;](https://renedva.github.io/Back2Life/)
+- &rlm;📄 **מדיניות הפרטיות:** [Back2Life-מדיניות הפרטיות](https://github.com/ReneDva/Back2Life/blob/main/index.md)
 - &rlm;📱 **Google Play:** [יתווסף עם הפרסום]
 - &rlm;🗑️ **מחיקת חשבון:** [https://renedva.github.io/Back2Life/delete-account&lrm;](https://renedva.github.io/Back2Life/delete-account)
 - &rlm;✉️ **יצירת קשר:** [back2lifesupport@gmail.com](mailto:back2lifesupport@gmail.com)
@@ -34,7 +34,7 @@ therapist, along with pain, symptoms and rest during the day.
 This repository hosts the app's **Privacy Policy** as a public page linked from its Google Play
 listing. The app's source code is not published here.
 
-- 📄 **Privacy Policy:** https://renedva.github.io/Back2Life/
+- 📄 **Privacy Policy:** [Back2Life-Privacy Policy](https://github.com/ReneDva/Back2Life/blob/main/index.md)
 - 📱 **Google Play:** [added on release]
 - 🗑️ **Delete account:** https://renedva.github.io/Back2Life/delete-account
 - ✉️ **Contact:** [back2lifesupport@gmail.com](mailto:back2lifesupport@gmail.com)
